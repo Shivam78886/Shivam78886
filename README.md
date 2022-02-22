@@ -5,7 +5,8 @@
 - 🔭 I’m currently working on my Analytical Skills.
 - 🌱 I’m currently learning SQL,Excel,Tableau and Python. 
 - 💬 Ask me about SQL,Excel,Tableau and Python.
-- :speaking_head: Loves to Communicate with People. 
+- :speaking_head: Loves to Communicate with People.
+- 🌲 Forever Learner
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can spend entire day strolling. 
 -->
