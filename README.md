@@ -9,3 +9,5 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can spend entire day strolling. 
 -->
+
+ [![Shivam’s github stats](https://github-readme-stats.vercel.app/api?username=Shivam78886&bg_color=191919&text_color=daf7dc)](https://github.com/Shivam78886)
